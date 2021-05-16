@@ -1,0 +1,30 @@
+
+<!-- <h1>Bem vindo</h1>
+	<p>Fazendo um teste do servidor</p>
+	<h2><% out.print("Fazendo mais testes, agora com jsp"); %> </h2>
+	<h3><%= "Novo teste com melhores práticas em JSP" %></h3>
+	<%@ include file="pagina-include.jsp" %>
+	<myprefix:minhatag/>
+	<form action = "cabecalho.jsp" method="post">
+	
+	
+	<input type = "text" id = "nome" name = "calcula" />
+	<br/>
+	<input type = "text" id = "ano" name = "calcula" />
+	<br/>
+	<br/>
+	<input type = "submit"value = "Testar"/>
+		
+	</form>	
+		
+		
+	<jsp:include page="acessoliberado.jsp"></jsp:include>
+	<jsp:include page="acessonegado.jsp"></jsp:include>
+	
+	
+	<%= calcula.calcula(50) %>
+	<jsp:include page="cabecalho.jsp"></jsp:include>
+		<h3>545454545 5445454545 iushudshiuds</h3>
+	<jsp:include page = "rodape.jsp"></jsp:include>
+	
+	 -->
